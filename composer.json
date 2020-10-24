@@ -1,0 +1,26 @@
+{
+    "name": "arokettu/all-libs",
+    "description": "All my libs metapackage",
+    "type": "metapackage",
+    "license": "MIT0",
+    "authors": [
+        {
+            "name": "Anton Smirnov",
+            "email": "sandfox@sandfox.me"
+        }
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "arokettu/console-menu": "dev-master",
+        "arokettu/encryptor": "*",
+        "arokettu/json": "*",
+        "sandfoxme/bencode": "*",
+        "sandfoxme/composer-viz": "*",
+        "sandfoxme/monsterid": "*",
+        "sandfoxme/phpstorm-metadata-export": "*",
+        "sandfoxme/private-access": "*",
+        "sandfoxme/torrent-file": "*"
+    }
+}
