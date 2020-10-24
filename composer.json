@@ -13,7 +13,7 @@
         "sort-packages": true
     },
     "require": {
-        "arokettu/console-menu": "dev-master",
+        "arokettu/console-menu": "*",
         "arokettu/encryptor": "*",
         "arokettu/json": "*",
         "sandfoxme/bencode": "*",
