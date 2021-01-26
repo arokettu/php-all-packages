@@ -12,10 +12,13 @@
     "config": {
         "sort-packages": true
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "arokettu/console-menu": "*",
         "arokettu/encryptor": "*",
         "arokettu/json": "*",
+        "arokettu/pseudolocale": "*",
         "sandfoxme/bencode": "*",
         "sandfoxme/composer-viz": "*",
         "sandfoxme/monsterid": "*",
