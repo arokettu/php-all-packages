@@ -19,6 +19,7 @@
         "arokettu/encryptor": "*",
         "arokettu/json": "*",
         "arokettu/pseudolocale": "*",
+        "arokettu/query-string-proxy": "*",
         "sandfoxme/bencode": "*",
         "sandfoxme/composer-viz": "*",
         "sandfoxme/monsterid": "*",
