@@ -17,9 +17,11 @@
     "require": {
         "arokettu/console-menu": "*",
         "arokettu/encryptor": "*",
+        "arokettu/is-resource": "*",
         "arokettu/json": "*",
         "arokettu/pseudolocale": "*",
         "arokettu/query-string-proxy": "*",
+        "sandfox.dev/code-standard": "*",
         "sandfoxme/bencode": "*",
         "sandfoxme/composer-viz": "*",
         "sandfoxme/monsterid": "*",
