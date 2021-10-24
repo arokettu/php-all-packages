@@ -15,6 +15,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
+        "arokettu/composer-viz": "*",
         "arokettu/console-menu": "*",
         "arokettu/encryptor": "*",
         "arokettu/is-resource": "*",
@@ -22,7 +23,6 @@
         "arokettu/pseudolocale": "*",
         "arokettu/query-string-proxy": "*",
         "sandfoxme/bencode": "*",
-        "sandfoxme/composer-viz": "*",
         "sandfoxme/monsterid": "*",
         "sandfoxme/phpstorm-metadata-export": "*",
         "sandfoxme/private-access": "*",
