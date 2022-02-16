@@ -10,7 +10,10 @@
         }
     ],
     "config": {
-        "sort-packages": true
+        "sort-packages": true,
+        "allow-plugins": {
+            "arokettu/composer-viz": true
+        }
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
@@ -22,7 +25,6 @@
         "arokettu/json": "*",
         "arokettu/path": "*",
         "arokettu/pseudolocale": "*",
-        "arokettu/query-string-proxy": "*",
         "sandfoxme/bencode": "*",
         "sandfoxme/monsterid": "*",
         "sandfoxme/phpstorm-metadata-export": "*",
