@@ -33,6 +33,9 @@
         "sandfoxme/private-access": "*",
         "sandfoxme/torrent-file": "*"
     },
+    "require-dev": {
+        "symfony/filesystem": ">= 2.0"
+    },
     "extra": {
         "arokettu/composer-license-manager": {
             "licenses": {
