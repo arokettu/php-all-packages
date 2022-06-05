@@ -37,7 +37,8 @@
         "arokettu/composer-license-manager": {
             "licenses": {
                 "allowed": ["MIT", "BSD-2-Clause", "BSD-3-Clause"]
-            }
+            },
+            "_comment": "Only permissive licenses"
         }
     }
 }
