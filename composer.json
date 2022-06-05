@@ -12,12 +12,14 @@
     "config": {
         "sort-packages": true,
         "allow-plugins": {
+            "arokettu/composer-license-manager": true,
             "arokettu/composer-viz": true
         }
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
+        "arokettu/composer-license-manager": "*",
         "arokettu/composer-viz": "*",
         "arokettu/console-menu": "*",
         "arokettu/encryptor": "*",
@@ -30,5 +32,12 @@
         "sandfoxme/phpstorm-metadata-export": "*",
         "sandfoxme/private-access": "*",
         "sandfoxme/torrent-file": "*"
+    },
+    "extra": {
+        "arokettu/composer-license-manager": {
+            "licenses": {
+                "allowed": ["MIT", "BSD-2-Clause", "BSD-3-Clause"]
+            }
+        }
     }
 }
