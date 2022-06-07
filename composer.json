@@ -2,7 +2,7 @@
     "name": "arokettu/all-libs",
     "description": "All my libs metapackage",
     "type": "metapackage",
-    "license": "MIT0",
+    "license": "MIT-0",
     "authors": [
         {
             "name": "Anton Smirnov",
