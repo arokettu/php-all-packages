@@ -2,7 +2,7 @@
     "name": "arokettu/all-libs",
     "description": "All my libs metapackage",
     "type": "metapackage",
-    "license": "MIT-0",
+    "license": "0BSD",
     "authors": [
         {
             "name": "Anton Smirnov",
@@ -39,7 +39,7 @@
     "extra": {
         "arokettu/composer-license-manager": {
             "licenses": {
-                "allowed": ["MIT", "BSD-2-Clause", "BSD-3-Clause"]
+                "allowed": ["MIT", "MIT-0", "BSD-2-Clause", "BSD-3-Clause", "CC-BY-2.5", "0BSD"]
             },
             "_comment": "Only permissive licenses"
         }
