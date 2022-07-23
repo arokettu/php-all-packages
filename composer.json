@@ -13,6 +13,7 @@
         "sort-packages": true,
         "allow-plugins": {
             "arokettu/composer-license-manager": true,
+            "arokettu/composer-menu": true,
             "arokettu/composer-viz": true
         }
     },
@@ -27,6 +28,7 @@
         "arokettu/json": "*",
         "arokettu/path": "*",
         "arokettu/pseudolocale": "*",
+        "arokettu/random-polyfill": "*",
         "sandfoxme/bencode": "*",
         "sandfoxme/monsterid": "*",
         "sandfoxme/phpstorm-metadata-export": "*",
