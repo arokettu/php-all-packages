@@ -29,7 +29,7 @@
         "arokettu/json": "*",
         "arokettu/path": "*",
         "arokettu/pseudolocale": "*",
-        "arokettu/random-polyfill": "*",
+        "arokettu/random-polyfill": "<1.99",
         "arokettu/unsigned": "*",
         "sandfoxme/monsterid": "*",
         "sandfoxme/phpstorm-metadata-export": "*",
