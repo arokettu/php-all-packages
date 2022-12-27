@@ -27,11 +27,11 @@
         "arokettu/encryptor": "*",
         "arokettu/is-resource": "*",
         "arokettu/json": "*",
+        "arokettu/monsterid": "*",
         "arokettu/path": "*",
         "arokettu/pseudolocale": "*",
         "arokettu/random-polyfill": "<1.99",
         "arokettu/unsigned": "*",
-        "sandfoxme/monsterid": "*",
         "sandfoxme/phpstorm-metadata-export": "*",
         "sandfoxme/private-access": "*",
         "sandfoxme/torrent-file": "*"
