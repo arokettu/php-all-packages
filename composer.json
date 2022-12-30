@@ -31,10 +31,10 @@
         "arokettu/path": "*",
         "arokettu/pseudolocale": "*",
         "arokettu/random-polyfill": "<1.99",
+        "arokettu/torrent-file": "*",
         "arokettu/unsigned": "*",
         "sandfoxme/phpstorm-metadata-export": "*",
-        "sandfoxme/private-access": "*",
-        "sandfoxme/torrent-file": "*"
+        "sandfoxme/private-access": "*"
     },
     "require-dev": {
         "symfony/filesystem": ">= 2.0"
