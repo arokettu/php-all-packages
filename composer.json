@@ -29,11 +29,11 @@
         "arokettu/json": "*",
         "arokettu/monsterid": "*",
         "arokettu/path": "*",
+        "arokettu/phpstorm-metadata-export": "*",
         "arokettu/pseudolocale": "*",
         "arokettu/random-polyfill": "<1.99",
         "arokettu/torrent-file": "*",
         "arokettu/unsigned": "*",
-        "sandfoxme/phpstorm-metadata-export": "*",
         "sandfoxme/private-access": "*"
     },
     "require-dev": {
