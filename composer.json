@@ -30,11 +30,11 @@
         "arokettu/monsterid": "*",
         "arokettu/path": "*",
         "arokettu/phpstorm-metadata-export": "*",
+        "arokettu/private-access": "*",
         "arokettu/pseudolocale": "*",
         "arokettu/random-polyfill": "<1.99",
         "arokettu/torrent-file": "*",
-        "arokettu/unsigned": "*",
-        "sandfoxme/private-access": "*"
+        "arokettu/unsigned": "*"
     },
     "require-dev": {
         "symfony/filesystem": ">= 2.0"
