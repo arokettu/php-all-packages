@@ -1,5 +1,5 @@
 {
-    "name": "arokettu/all-libs",
+    "name": "sandfox.dev/all-libs",
     "description": "All my libs metapackage",
     "type": "metapackage",
     "license": "0BSD",
