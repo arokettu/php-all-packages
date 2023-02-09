@@ -20,6 +20,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
+        "arokettu/arithmetic-parser": "*",
         "arokettu/bencode": "*",
         "arokettu/composer-license-manager": "*",
         "arokettu/composer-viz": "*",
