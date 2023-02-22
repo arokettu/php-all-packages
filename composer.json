@@ -28,6 +28,7 @@
         "arokettu/encryptor": "*",
         "arokettu/is-resource": "*",
         "arokettu/json": "*",
+        "arokettu/kilo-mega": "*",
         "arokettu/monsterid": "*",
         "arokettu/path": "*",
         "arokettu/phpstorm-metadata-export": "*",
