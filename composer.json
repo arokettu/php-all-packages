@@ -22,6 +22,7 @@
     "require": {
         "arokettu/arithmetic-parser": "*",
         "arokettu/bencode": "*",
+        "arokettu/clock": "*",
         "arokettu/composer-license-manager": "*",
         "arokettu/composer-viz": "*",
         "arokettu/console-menu": "*",
