@@ -36,7 +36,8 @@
         "arokettu/random-polyfill": "<1.99",
         "arokettu/system-clock": "*",
         "arokettu/torrent-file": "*",
-        "arokettu/unsigned": "*"
+        "arokettu/unsigned": "*",
+        "arokettu/uuid": "*"
     },
     "require-dev": {
         "symfony/filesystem": ">= 2.0"
