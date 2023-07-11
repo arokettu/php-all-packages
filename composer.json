@@ -37,7 +37,8 @@
         "arokettu/system-clock": "*",
         "arokettu/torrent-file": "*",
         "arokettu/unsigned": "*",
-        "arokettu/uuid": "*"
+        "arokettu/uuid": "*",
+        "arokettu/uuid-doctrine": "*"
     },
     "require-dev": {
         "symfony/filesystem": ">= 2.0"
