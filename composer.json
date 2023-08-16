@@ -17,6 +17,7 @@
             "arokettu/composer-viz": true
         }
     },
+    "minimum-stability": "alpha",
     "require": {
         "arokettu/arithmetic-parser": "*",
         "arokettu/bencode": "*",
