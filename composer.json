@@ -37,6 +37,7 @@
         "arokettu/random-polyfill": "<1.99",
         "arokettu/system-clock": "*",
         "arokettu/torrent-file": "*",
+        "arokettu/torrent-file-cli": "*",
         "arokettu/unsigned": "*",
         "arokettu/uuid": "*",
         "arokettu/uuid-doctrine": "*"
