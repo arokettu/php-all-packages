@@ -25,6 +25,7 @@
         "arokettu/composer-license-manager": "*",
         "arokettu/composer-viz": "*",
         "arokettu/console-menu": "*",
+        "arokettu/datetime-rounding": "*",
         "arokettu/encryptor": "*",
         "arokettu/is-resource": "*",
         "arokettu/json": "*",
