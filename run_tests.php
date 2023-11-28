@@ -22,6 +22,7 @@ try {
     $packages = array_keys($composerJson['require']);
 
     $skip = [
+        'arokettu/composer-license-manager', // skip because of platform check
     ];
 
     $packages = array_diff($packages, $skip);
