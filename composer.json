@@ -37,6 +37,7 @@
         "arokettu/private-access": "*",
         "arokettu/pseudolocale": "*",
         "arokettu/random-polyfill": "*",
+        "arokettu/rfc1751": "*",
         "arokettu/system-clock": "*",
         "arokettu/torrent-file": "*",
         "arokettu/torrent-file-cli": "*",
