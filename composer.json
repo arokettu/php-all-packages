@@ -14,7 +14,8 @@
         "allow-plugins": {
             "arokettu/composer-license-manager": true,
             "arokettu/composer-menu": true,
-            "arokettu/composer-viz": true
+            "arokettu/composer-viz": true,
+            "php-http/discovery": false
         }
     },
     "minimum-stability": "alpha",
