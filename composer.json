@@ -33,6 +33,7 @@
         "arokettu/kilo-mega": "*",
         "arokettu/monsterid": "*",
         "arokettu/path": "*",
+        "arokettu/pgp-word-list": "*",
         "arokettu/phpstorm-metadata-export": "*",
         "arokettu/private-access": "*",
         "arokettu/pseudolocale": "*",
