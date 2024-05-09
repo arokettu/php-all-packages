@@ -49,7 +49,7 @@
         "arokettu/uuid-doctrine": "*"
     },
     "require-dev": {
-        "psy/psysh": "^0.12.3",
+        "psy/psysh": ">= 0",
         "symfony/filesystem": ">= 2.0"
     },
     "extra": {
