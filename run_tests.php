@@ -37,7 +37,7 @@ try {
         if (is_dir('run_tests/' . $p)) {
             chdir('run_tests/' . $p);
 
-            run("git pull 2>&1") === 0 || die("git error\n");
+            run("git pull 2>&1", $output) === 0 || die("git error\n" . implode("\n", $output));
             echo 'updated... ';
         } else {
             $fs->mkdir('run_tests/' . $p);
@@ -60,7 +60,7 @@ try {
             continue;
         }
 
-        if (run($testExec, $output) === 0) {
+        if (run('/usr/bin/env php ' . $testExec, $output) === 0) {
             echo 'successful!', PHP_EOL;
             continue;
         }
