@@ -23,6 +23,7 @@ try {
 
     $skip = [
         'arokettu/composer-license-manager', // skip because of platform check
+        'arokettu/random-polyfill',
     ];
 
     $packages = array_diff($packages, $skip);
