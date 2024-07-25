@@ -26,7 +26,7 @@ try {
         'arokettu/random-polyfill',
     ];
 
-    $packages = array_diff($packages, $skip);
+    $packages = array_diff($packages);
 
     foreach ($packages as $p) {
         chdir(__DIR__);
@@ -53,6 +53,11 @@ try {
 
         run('composer update --no-interaction 2>&1') === 0 || die("composer error\n");
         echo 'installed... ';
+
+        if (in_array($p, $skip, true)) {
+            echo 'skipped!', PHP_EOL;
+            continue;
+        }
 
         $testExec = $p === 'arokettu/is-resource' ? 'tests/tests.sh' : 'vendor/bin/phpunit';
 
