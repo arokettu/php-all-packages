@@ -30,6 +30,7 @@
         "arokettu/date-doctrine": "*",
         "arokettu/datetime-rounding": "*",
         "arokettu/encryptor": "*",
+        "arokettu/ip-address": "*",
         "arokettu/is-resource": "*",
         "arokettu/json": "*",
         "arokettu/kilo-mega": "*",
