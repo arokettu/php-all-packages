@@ -31,6 +31,7 @@
         "arokettu/datetime-rounding": "*",
         "arokettu/encryptor": "*",
         "arokettu/ip-address": "*",
+        "arokettu/ip-address-doctrine": "*",
         "arokettu/is-resource": "*",
         "arokettu/json": "*",
         "arokettu/kilo-mega": "*",
