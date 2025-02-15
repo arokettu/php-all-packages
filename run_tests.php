@@ -3,10 +3,9 @@
 
 use Symfony\Component\Filesystem\Filesystem;
 
+require __DIR__ . '/vendor/autoload.php';
+
 try {
-
-    require __DIR__ . '/vendor/autoload.php';
-
     $fs = new Filesystem();
 
     chdir(__DIR__);
@@ -75,10 +74,8 @@ try {
         echo implode(PHP_EOL, $output);
         die("\n");
     }
-} catch (Exception $e) {
-    echo strval($e);
 } catch (Throwable $e) {
-    echo strval($e);
+    echo $e;
 }
 
 function run($command, &$output = null) {
