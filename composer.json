@@ -41,7 +41,6 @@
         "arokettu/phpstorm-metadata-export": "*",
         "arokettu/private-access": "*",
         "arokettu/pseudolocale": "*",
-        "arokettu/random-polyfill": "*",
         "arokettu/rfc1751": "*",
         "arokettu/system-clock": "*",
         "arokettu/torrent-file": "*",
