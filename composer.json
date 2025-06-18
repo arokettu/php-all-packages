@@ -49,7 +49,8 @@
         "arokettu/unsigned": "*",
         "arokettu/uuid": "*",
         "arokettu/uuid-doctrine": "*",
-        "peso/core": "*"
+        "peso/core": "*",
+        "peso/moneyphp-exchange": "*"
     },
     "require-dev": {
         "psy/psysh": ">= 0",
