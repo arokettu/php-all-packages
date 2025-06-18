@@ -48,7 +48,8 @@
         "arokettu/torrent-file-cli": "*",
         "arokettu/unsigned": "*",
         "arokettu/uuid": "*",
-        "arokettu/uuid-doctrine": "*"
+        "arokettu/uuid-doctrine": "*",
+        "peso/core": "*"
     },
     "require-dev": {
         "psy/psysh": ">= 0",
