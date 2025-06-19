@@ -50,11 +50,13 @@
         "arokettu/uuid": "*",
         "arokettu/uuid-doctrine": "*",
         "peso/core": "*",
+        "peso/ecb-service": "*",
         "peso/moneyphp-exchange": "*"
     },
     "require-dev": {
         "psy/psysh": ">= 0",
-        "symfony/filesystem": ">= 2.0"
+        "symfony/filesystem": ">= 2.0",
+        "symfony/http-client": "^7.3"
     },
     "extra": {
         "arokettu/composer-license-manager": {
