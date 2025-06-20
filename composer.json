@@ -51,6 +51,7 @@
         "arokettu/uuid-doctrine": "*",
         "peso/core": "*",
         "peso/ecb-service": "*",
+        "peso/fixer-service": "*",
         "peso/moneyphp-exchange": "*"
     },
     "require-dev": {
