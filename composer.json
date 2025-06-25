@@ -54,7 +54,8 @@
         "peso/ecb-service": "*",
         "peso/fixer-service": "*",
         "peso/moneyphp-exchange": "*",
-        "peso/peso": "*"
+        "peso/peso": "*",
+        "peso/peso-exchanger-interop": "*"
     },
     "require-dev": {
         "psy/psysh": ">= 0",
