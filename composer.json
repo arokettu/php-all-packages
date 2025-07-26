@@ -62,8 +62,8 @@
     },
     "require-dev": {
         "psy/psysh": ">= 0",
-        "symfony/filesystem": ">= 2.0",
-        "symfony/http-client": "^7.3"
+        "symfony/filesystem": ">= 6",
+        "symfony/http-client": ">= 6"
     },
     "extra": {
         "arokettu/composer-license-manager": {
