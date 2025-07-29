@@ -52,6 +52,7 @@
         "peso/brick-rateprovider": "*",
         "peso/cnb-service": "*",
         "peso/core": "*",
+        "peso/currencyapi-service": "*",
         "peso/ecb-service": "*",
         "peso/fixer-service": "*",
         "peso/freecurrencyapi-service": "*",
