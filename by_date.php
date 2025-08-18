@@ -10,7 +10,10 @@ unset($p);
 usort($packages, fn ($a, $b) => $a['time_obj'] <=> $b['time_obj']);
 
 foreach ($packages as $p) {
-    if (!str_starts_with($p['name'], 'arokettu/')) {
+    if (
+        !str_starts_with($p['name'], 'arokettu/') &&
+        !str_starts_with($p['name'], 'peso/')
+    ) {
         continue;
     }
     echo sprintf("%s    %-34s %s\n", $p['time_obj']->format('Y-m-d'), $p['name'], $p['version']);
