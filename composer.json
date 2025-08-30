@@ -1,6 +1,6 @@
 {
-    "name": "sandfox.dev/all-libs",
-    "description": "All my libs metapackage",
+    "name": "sandfox.dev/all-packages",
+    "description": "All my libraries metapackage",
     "type": "metapackage",
     "license": "0BSD",
     "authors": [
