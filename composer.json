@@ -49,6 +49,7 @@
         "arokettu/unsigned": "*",
         "arokettu/uuid": "*",
         "arokettu/uuid-doctrine": "*",
+        "peso/bnr-service": "*",
         "peso/brick-rateprovider": "*",
         "peso/cnb-service": "*",
         "peso/core": "*",
