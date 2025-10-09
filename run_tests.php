@@ -50,7 +50,7 @@ try {
             echo 'cloned... ';
         }
 
-        run('composer update --no-interaction 2>&1') === 0 || die("composer error\n");
+        run(PHP_BINARY . ' `which composer` update --no-interaction 2>&1') === 0 || die("composer error\n");
         echo 'installed... ';
 
         if (in_array($p, $skip, true)) {
@@ -65,7 +65,7 @@ try {
             continue;
         }
 
-        if (run('/usr/bin/env php ' . $testExec, $output) === 0) {
+        if (run(PHP_BINARY . ' ' . $testExec, $output) === 0) {
             echo 'successful!', PHP_EOL;
             continue;
         }
