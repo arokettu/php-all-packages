@@ -57,6 +57,7 @@
         "peso/ecb-service": "*",
         "peso/fixer-service": "*",
         "peso/freecurrencyapi-service": "*",
+        "peso/mnb-service": "*",
         "peso/moneyphp-exchange": "*",
         "peso/openexchangerates-service": "*",
         "peso/peso": "*",
