@@ -65,6 +65,7 @@
         "peso/peso-exchanger-interop": "*"
     },
     "require-dev": {
+        "part-db/exchanger": ">= 0",
         "psy/psysh": ">= 0",
         "symfony/filesystem": ">= 6",
         "symfony/http-client": ">= 6"
