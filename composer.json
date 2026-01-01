@@ -54,6 +54,7 @@
         "peso/cnb-service": "*",
         "peso/core": "*",
         "peso/currencyapi-service": "*",
+        "peso/debug": "*",
         "peso/ecb-service": "*",
         "peso/fixer-service": "*",
         "peso/frankfurter-service": "*",
