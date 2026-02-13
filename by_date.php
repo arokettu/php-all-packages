@@ -11,8 +11,8 @@ usort($packages, fn ($a, $b) => $a['time_obj'] <=> $b['time_obj']);
 
 foreach ($packages as $p) {
     if (
-        !str_starts_with($p['name'], 'arokettu/') &&
-        !str_starts_with($p['name'], 'peso/')
+        !str_starts_with($p['name'], 'arokettu/') && !str_starts_with($p['name'], 'peso/') ||
+        $p['name'] === 'arokettu/random-polyfill'
     ) {
         continue;
     }
