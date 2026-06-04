@@ -52,6 +52,7 @@
         "peso/bnr-service": "*",
         "peso/brick-rateprovider": "*",
         "peso/cnb-service": "*",
+        "peso/coinlayer-service": "*",
         "peso/core": "*",
         "peso/currencyapi-service": "*",
         "peso/debug": "*",
